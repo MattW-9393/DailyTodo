@@ -66,7 +66,13 @@ function completionCounterFunc () {
             completionCounterFunc();
             checkbox.hidden = true;
             console.log("CHECKBOXES hidden until tomorrow");
+            taskElement.classList.add("task-complete");
+
         }
+        setTimeout(() => {
+            taskElement.classList.remove("task-complete");
+        }, 1000);
+        
     }
 
     // Add event listeners for each checkbox
