@@ -59,9 +59,12 @@ Once the app is running, you can:
 
 The exercises set in the app are indiciative only - Feel free to modify index.html to show your own goals and preferences.
 
+==============================================================================================================================================================================================================================================================================
 ##Disclaimer
 
-### This app is not designed, or informed by any fitness or medial professionals. Please consult a medical professional before conducting exercise, and ensure proper form is used in all exercises. GoldLab studios are not liable for any injury, harm or death to any individual whilst exercising. All goals / habits /reps are determined by the individual user. The default exercises and reps are purely for show and to represent a likeness to 'The System' in the 'Solo Levelling' anime/manwah/webtoon.
+This app is not designed, or informed by any fitness or medial professionals. Please consult a medical professional before conducting exercise, and ensure proper form is used in all exercises. GoldLab studios are not liable for any injury, harm or death to any individual whilst exercising. All goals / habits /reps are determined by the individual user. The default exercises and reps are purely for show and to represent a likeness to 'The System' in the 'Solo Levelling' anime/manwah/webtoon.
+
+==============================================================================================================================================================================================================================================================================
 
 
 ## Contributing
