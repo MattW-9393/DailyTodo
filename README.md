@@ -50,14 +50,18 @@ Your app should now be running at `http://localhost:3000`.
 
 Once the app is running, you can:
 
-1. Create an account or log in.
-2. Customize your habit tracker by adding exercises.
-3. Check off exercises as you complete them each day.
-4. Monitor your progress and stay motivated!
+1. Customize your habit tracker by adding exercises.
+2. Check off exercises as you complete them each day.
+3. Monitor your progress and stay motivated!
+4. If you take a break and want to start a 'New Game' - Feel free by using the 'Reset Level' feature!
 
 ## Exercises
 
 The exercises set in the app are indiciative only - Feel free to modify index.html to show your own goals and preferences.
+
+##Disclaimer
+
+### This app is not designed, or informed by any fitness or medial professionals. Please consult a medical professional before conducting exercise, and ensure proper form is used in all exercises. GoldLab studios are not liable for any injury, harm or death to any individual whilst exercising. All goals / habits /reps are determined by the individual user. The default exercises and reps are purely for show and to represent a likeness to 'The System' in the 'Solo Levelling' anime/manwah/webtoon.
 
 
 ## Contributing
